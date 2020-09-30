@@ -18,3 +18,12 @@
     ]
   }
 }
+
+//"baseUrl": "src",
+    //"paths": {
+      //"@auth/*": ["app/auth/*"],
+      //"@common/*": ["app/common/*"],
+      //"@admin/*": ["app/admin/*"],
+      //"@shared/*": ["app/shared/*"],
+      //"@shop/*": ["app/shop/*"],
+    //}
